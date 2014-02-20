@@ -1,0 +1,10 @@
+{
+  "name": "cristiandouce-csv",
+  "description": "Create CSV from data and download",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-object": "git://github.com/npmcomponent/component-object.git"
+  },
+  "license": "MIT"
+}

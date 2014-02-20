@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var object = require('object');
+var object = require('component-object');
 
 /**
  * Expose `CSV` constructor.
